@@ -1,0 +1,7 @@
+aid: twenty-first-century-fox
+url: https://raw.githubusercontent.com/api-evangelist/twenty-first-century-fox/refs/heads/main/apis.yml
+modified: '2026-03-24'
+apis: []
+common:
+  - type: Website
+    url: https://www.twenty-first-century-fox.com
