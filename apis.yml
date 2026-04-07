@@ -1,7 +1,12 @@
 aid: twenty-first-century-fox
-url: https://raw.githubusercontent.com/api-evangelist/twenty-first-century-fox/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/twenty-first-century-fox/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.twenty-first-century-fox.com
+description: >-
+  Twenty-First Century Fox was an American multinational mass media corporation that
+  operated film, television, and cable assets before being largely acquired by The
+  Walt Disney Company.
