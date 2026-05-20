@@ -20,6 +20,8 @@ description: >-
   independent entity and did not expose public developer APIs.
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/21st-century-fox
   - type: Website
     url: https://www.foxcorporation.com
   - type: About
