@@ -15,7 +15,7 @@ name: Twenty-First Century Fox
 url: https://raw.githubusercontent.com/api-evangelist/twenty-first-century-fox/refs/heads/main/apis.yml
 created: '2026-05-03'
 modified: '2026-05-03'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 kind: contract
 access: 3rd-Party
 tags:
