@@ -30,28 +30,33 @@ specificationVersion: '0.23'
 kind: contract
 access: 3rd-Party
 tags:
-  - Media
-  - Entertainment
-  - Film
-  - Television
-  - Broadcasting
-  - Fortune 100
-description: >-
-  Twenty-First Century Fox was an American multinational mass media corporation
-  that operated film, television, and cable assets before being largely acquired
-  by The Walt Disney Company in 2019. Its remaining broadcasting and news
-  assets continued under Fox Corporation. The company no longer exists as an
-  independent entity and did not expose public developer APIs.
+- Media
+- Entertainment
+- Film
+- Television
+- Broadcasting
+- Fortune 100
+description: Twenty-First Century Fox was an American multinational mass media corporation that operated film, television,
+  and cable assets before being largely acquired by The Walt Disney Company in 2019. Its remaining broadcasting
+  and news assets continued under Fox Corporation. The company no longer exists as an independent entity and did
+  not expose public developer APIs.
 apis: []
 common:
-  - type: DomainSecurity
-    url: security/twenty-first-century-fox-domain-security.yml
-  - type: LinkedIn
-    url: https://www.linkedin.com/company/21st-century-fox
-  - type: Website
-    url: https://www.foxcorporation.com
-  - type: About
-    url: https://www.foxcorporation.com/about
+- type: DomainSecurity
+  url: security/twenty-first-century-fox-domain-security.yml
+- type: LinkedIn
+  url: https://www.linkedin.com/company/21st-century-fox
+- type: Website
+  url: https://www.foxcorporation.com
+- type: About
+  url: https://www.foxcorporation.com/about
+- type: GitHubOrganization
+  url: https://github.com/Tubitv
+  description: Tubi engineering GitHub org — 53 public repositories spanning streaming/media (TubiPlayer, hls.js
+    fork, ExoPlayer fork), Elixir backend libs (grpc, protobuf, redis_cluster, logger_sentry, overseer), Roku/Brightscript
+    utilities (rodash), JupyterLab extensions, and the xdiff API-diff tool.
+- type: GitHubOrganization
+  url: https://github.com/foxcorp
 maintainers:
-  - FN: Kin Lane
-    email: kin@apievangelist.com
+- FN: Kin Lane
+  email: kin@apievangelist.com
