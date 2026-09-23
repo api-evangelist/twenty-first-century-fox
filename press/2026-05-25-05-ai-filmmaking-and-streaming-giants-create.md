@@ -1,7 +1,9 @@
 ---
 title: AI filmmaking and streaming giants - CREATe
 url: https://www.create.ac.uk/blog/2026/05/22/ai-filmmaking-and-streaming-giants/
-date: '2026-05-25'
+published: '2026-05-22'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Twenty-First Century Fox" press release artificial intelligence'
 position: 5
 source: serpapi-google

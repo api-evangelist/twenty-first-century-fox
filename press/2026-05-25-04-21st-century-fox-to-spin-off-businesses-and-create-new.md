@@ -1,7 +1,9 @@
 ---
 title: 21st Century Fox to Spin off Businesses and Create New “ ...
 url: https://www.sttinfo.fi/tiedote/65284250/21st-century-fox-to-spin-off-businesses-and-create-new-fox-a-growth-company-centered-on-live-news-and-sports-brands-and-the-iconic-fox-brand?publisherId=58763726
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Twenty-First Century Fox" press release artificial intelligence'
 position: 4
 source: serpapi-google
