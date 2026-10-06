@@ -25,7 +25,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/twenty-fir
 name: Twenty-First Century Fox
 url: https://raw.githubusercontent.com/api-evangelist/twenty-first-century-fox/refs/heads/main/apis.yml
 created: '2026-05-03'
-modified: '2026-05-03'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 kind: contract
 access: 3rd-Party
@@ -42,6 +42,10 @@ description: Twenty-First Century Fox was an American multinational mass media c
   not expose public developer APIs.
 apis: []
 common:
+- url: https://www.foxcorporation.com/news/press-releases/
+  type: Blog
+- url: https://www.foxcorporation.com/news/press-releases/feed/
+  type: BlogRSS
 - type: DomainSecurity
   url: security/twenty-first-century-fox-domain-security.yml
 - type: LinkedIn
